@@ -21,6 +21,9 @@ Link:
 ```
 https://cdn.jsdelivr.net/gh/IceWhaleTech/AppIcon@main/all/filebrowser.png
 ```
+Icon:
+
+![File Browser](https://cdn.jsdelivr.net/gh/IceWhaleTech/AppIcon@main/all/filebrowser.png)
 
 ### Example: Pi-Hole
 
@@ -33,3 +36,7 @@ Link:
 ```
 https://cdn.jsdelivr.net/gh/IceWhaleTech/AppIcon@main/all/pihole.png
 ```
+
+Icon:
+
+![Pi-Hole](https://cdn.jsdelivr.net/gh/IceWhaleTech/AppIcon@main/all/pihole.png)
