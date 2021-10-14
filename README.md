@@ -1,2 +1,2 @@
 # AppIcon
-Icon collection for open source Docker Apps.
+Icon Collection for Docker Apps.
