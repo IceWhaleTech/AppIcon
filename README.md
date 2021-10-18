@@ -2,7 +2,7 @@
 Icon Collection for Docker Apps.
 
 
-## Useage
+## Usage
 
 App name should be in all lowercase, no spaces, no hyphens.
 
